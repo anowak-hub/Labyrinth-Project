@@ -22,7 +22,7 @@ class StageFiveViewController: UIViewController {
     
     @IBAction func whenImageScrollerPressed(_ sender: UISegmentedControl) {
         // Must be able to scroll across various images through one single image view (imageClueView)
-    
+        
     
     
     }
