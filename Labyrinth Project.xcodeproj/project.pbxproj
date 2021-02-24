@@ -17,7 +17,6 @@
 		B6238ECE25C205BC00218B2D /* Labyrinth_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6238ECD25C205BC00218B2D /* Labyrinth_ProjectUITests.swift */; };
 		B661DFBD25C9EF4A009FE411 /* StageThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B661DFBC25C9EF4A009FE411 /* StageThreeViewController.swift */; };
 		B661DFFB25C9F765009FE411 /* StageCompleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B661DFFA25C9F765009FE411 /* StageCompleteViewController.swift */; };
-		B69684C425CC99F8004F0F3D /* StageFiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69684C325CC99F8004F0F3D /* StageFiveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		B6238ECF25C205BC00218B2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B661DFBC25C9EF4A009FE411 /* StageThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageThreeViewController.swift; sourceTree = "<group>"; };
 		B661DFFA25C9F765009FE411 /* StageCompleteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageCompleteViewController.swift; sourceTree = "<group>"; };
-		B69684C325CC99F8004F0F3D /* StageFiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageFiveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +108,6 @@
 				B6238EAF25C205BA00218B2D /* ViewController.swift */,
 				B661DFBC25C9EF4A009FE411 /* StageThreeViewController.swift */,
 				B661DFFA25C9F765009FE411 /* StageCompleteViewController.swift */,
-				B69684C325CC99F8004F0F3D /* StageFiveViewController.swift */,
 				B6238EB125C205BA00218B2D /* Main.storyboard */,
 				B6238EB425C205BC00218B2D /* Assets.xcassets */,
 				B6238EB625C205BC00218B2D /* LaunchScreen.storyboard */,
@@ -269,7 +266,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B661DFBD25C9EF4A009FE411 /* StageThreeViewController.swift in Sources */,
-				B69684C425CC99F8004F0F3D /* StageFiveViewController.swift in Sources */,
 				B6238EB025C205BA00218B2D /* ViewController.swift in Sources */,
 				B6238EAC25C205BA00218B2D /* AppDelegate.swift in Sources */,
 				B6238EAE25C205BA00218B2D /* SceneDelegate.swift in Sources */,
