@@ -995,16 +995,16 @@
             </objects>
             <point key="canvasLocation" x="12726" y="31"/>
         </scene>
-        <!--View Controller-->
+        <!--Stage Seven View Controller-->
         <scene sceneID="ARg-X9-xWl">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="go2-lF-0tg" sceneMemberID="viewController">
+                <viewController modalPresentationStyle="fullScreen" id="go2-lF-0tg" customClass="StageSevenViewController" customModule="Labyrinth_Project" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fBX-QJ-LhC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Pyo-1p-50r">
-                                <rect key="frame" x="0.0" y="74" width="414" height="50.5"/>
+                                <rect key="frame" x="0.0" y="74" width="414" height="106.5"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Stage 7" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w0O-Y1-If5">
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="50.5"/>
@@ -1012,6 +1012,10 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <searchBar contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="KTE-SM-Umy">
+                                        <rect key="frame" x="0.0" y="50" width="414" height="56"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </searchBar>
                                 </subviews>
                             </stackView>
                         </subviews>
